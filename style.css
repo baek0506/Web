@@ -154,16 +154,9 @@ p{
     cursor: pointer;
 }
 h3{
-    text-align: left;
+    text-align: center;
     font-weight: 600;
     margin: 10px 0;
-}
-p1{
-    color:#777;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 22px;
-    text-align: left;
 }
 .blogger-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
@@ -188,7 +181,6 @@ p1{
     margin-bottom: 0;
     position: relative;
     overflow: hidden;
-    cursor: pointer;
 }
 .recipe-col img{
     width: 100%;
@@ -217,7 +209,6 @@ p1{
     position: absolute;
     opacity: 0;
     transition: 0.5s;
-    text-align: center;
 }
 .layer:hover h3{
     bottom: 49%;
@@ -251,6 +242,7 @@ p1{
     text-align: left;
 }
 
+/*---testimonials--
 .testimonials{
     width: 80%;
     margin: auto;
@@ -279,8 +271,9 @@ p1{
 .testimonials-col h3{
     margin-top: 15px;
     text-align: left;
-}
+}*/
 
+/*----cta----
 .cta{
     margin: 100px auto;
     width: 80%;
@@ -303,7 +296,6 @@ p1{
     width: 100%;
     text-align: center;
     padding: 30px 0;
-    margin-top: 50px;
 }
 
 .footer-icon{
