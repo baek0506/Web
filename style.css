@@ -322,6 +322,7 @@ h3{
     padding-bottom: 50px;
 }
 .about-title{
+    box-sizing: border-box;
     display: flex;
 }
 .about-col{
