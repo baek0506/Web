@@ -216,27 +216,27 @@ h3{
 }
 
 
-/*----facilities---
-.facilities{
+/*----cooker---
+.cooker{
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
-.facilities-col{
+.cooker-col{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
-.facilities-col img{
+.cooker-col img{
     width: 100%;
     border-radius: 10px;
 }
-.facilities-col p{
+.cooker-col p{
     padding: 0;
 }
-.facilities-col h3{
+.cooker-col h3{
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: left;
@@ -479,4 +479,33 @@ h3{
     outline: none;
     border: 1px solid #ccc;
     box-sizing: border-box;
+}
+
+/*---cooker---*/
+.cooker{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.cooker-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.cooker-col img{
+    width: 100%;
+    border-radius: 10px;
+}
+.cooker-col p{
+    padding: 0;
+    text-align: center;
+    color: #555;
+}
+.cooker-col h3{
+    margin-top: 10px;
+    color: #222;
+    margin-bottom: 10px;
+    text-align: center;
 }
